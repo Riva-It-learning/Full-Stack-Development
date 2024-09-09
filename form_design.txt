@@ -1,0 +1,15 @@
+Form Structure and Basic Input Fields:
+
+1.Design an HTML form to collect a user's name, email, and phone number. Ensure that the email input field validates the user's input to make sure it is in the correct email format.
+Form with Select and Radio Buttons:
+
+2.Create an HTML form that allows users to select their gender (Male, Female, Other) using radio buttons and choose their country from a dropdown list. Ensure that the form is accessible and uses appropriate labels.
+Form Validation and Required Fields:
+
+3.Build an HTML form that collects a user's first name, last name, and a password. Make sure that all fields are required, the password field must be at least 8 characters long, and display an appropriate error message if the validation fails.
+Form with Checkbox and Textarea:
+
+4.Develop an HTML form that includes a checkbox for users to agree to terms and conditions, a textarea for users to enter additional comments, and a submit button. Ensure that the form prevents submission if the checkbox is not checked.
+Form Submission and Action Attribute:
+
+5.Create an HTML form that submits the user's information to a server-side script located at /submit-form. The form should include input fields for username, password, and a submit button. Explain how the action attribute works in this context and what happens after the form is submitted.
